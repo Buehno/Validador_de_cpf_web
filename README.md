@@ -1,0 +1,2 @@
+# Validador_de_cpf_web
+ Com este artigo, construímos um validador de CPF online responsivo usando HTML, CSS e JavaScript. Os usuários podem inserir um CPF e receber feedback visual instantâneo sobre sua validade. Este projeto pode ser expandido e personalizado de acordo com suas necessidades, e é uma ótima introdução para o desenvolvimento web front-end.  Lembre-se de que este é um exemplo simplificado e fictício de validação de CPF. Em um ambiente de produção real, você deve usar bibliotecas ou serviços de validação de CPF confiáveis para garantir a precisão da validação.
